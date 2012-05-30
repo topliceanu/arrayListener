@@ -1,6 +1,7 @@
 arrayListener
 =============
 
+[![Build Status](https://secure.travis-ci.org/topliceanu/arrayListener.png)](http://travis-ci.org/topliceanu/arrayListener)
 
 tweet
 -----
